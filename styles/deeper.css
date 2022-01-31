@@ -1,0 +1,26 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 300px;
+}
+
+.centertext {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+.button {
+  background-color: #EDEADE;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 36px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family:Friz Quadrata;
+}
